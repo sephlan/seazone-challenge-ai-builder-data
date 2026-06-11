@@ -1,0 +1,16 @@
+parametro,valor
+suburb,Tabuleiro dos Oliveiras
+bedrooms,2
+m2_por_apto,69.0
+n_aptos,50
+custo_construcao_m2,5500
+custo_terreno_pct,0.2
+investimento_total,22770000.0
+diaria_mediana,425.0
+ocupacao_alta,0.4134615384615385
+fator_ocupacao_baixa,0.4
+fator_diaria_baixa,0.7
+comissao_plataforma,0.15
+custos_gestao,0.2
+valorizacao_anual,0.06
+inflacao,0.045

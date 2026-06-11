@@ -1,0 +1,3 @@
+segmento,star_rating_mediana,number_of_reviews_mediana,number_of_bedrooms_mediana,number_of_guests_mediana,number_of_bathrooms_mediana,picture_count_mediana,preco_mediano_noite_mediana,ocupacao_estimada_mediana,n
+top_20,4.960000038146973,12.0,3.0,8.0,3.0,23.0,950.0,0.21153846153846156,201
+restante,4.929999828338623,19.0,2.0,6.0,2.0,21.0,499.0,0.46153846153846156,798
